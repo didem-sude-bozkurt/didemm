@@ -1,0 +1,56 @@
+
+
+
+
+
+body{
+    background-color: #292626;
+}
+
+
+
+
+.sertifikalar{
+    color: #ffffff;
+    text-align: center; /* Metinleri ortala */
+}
+
+
+.flutter{
+
+    /* float: left; */
+    color: #ffffff;
+    right: 35%;
+    font-size: 100%;
+    text-align: center; /* Metinleri ortala */
+}
+
+
+.php{
+
+    /* float: left; */
+    color: #ffffff;
+    left: 35%;
+    font-size: 100%;
+    text-align: center; /* Metinleri ortala */
+}
+
+
+.bilgisayar{
+
+    /* float: left; */
+    color: #ffffff;
+    left: 35%;
+    font-size: 100%;
+    text-align: center; /* Metinleri ortala */
+}
+
+
+.net{
+
+    /* float: left; */
+    color: #ffffff;
+    left: 35%;
+    font-size: 100%;
+    text-align: center; /* Metinleri ortala */
+}

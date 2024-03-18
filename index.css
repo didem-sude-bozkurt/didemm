@@ -1,0 +1,36 @@
+body{
+    background-color: #292626;
+}
+
+
+
+
+.blogbaslik{
+    color: #ffffff;
+    left: 35%;
+    font-size: 180%;
+    text-align: center; /* Metinleri ortala */
+}
+
+
+
+.blog1{
+    color: #ffffff;
+    right: 35%;
+    font-size: 150%;
+    text-align: center; /* Metinleri ortala */
+    margin-left: 5em; /* Paragraf başına bir tab boşluk koy */
+    margin-right: 5em; /* Paragraf başına bir tab boşluk koy */
+
+}
+
+.blog2{
+    color: #ffffff;
+    right: 35%;
+    font-size: 150%;
+    text-align: center; /* Metinleri ortala */
+    margin-left: 5em; /* Paragraf başına bir tab boşluk koy */
+    margin-right: 5em; /* Paragraf başına bir tab boşluk koy */
+    
+
+}
